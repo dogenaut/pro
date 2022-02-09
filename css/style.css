@@ -322,7 +322,7 @@ body {
     background: url("../img/background.jpg") no-repeat;
     background-size: cover;
     background-position: bottom center;
-    height: 72vh;
+    height: 100vh;
 }
 .main-screen__inner {
     display: flex;
